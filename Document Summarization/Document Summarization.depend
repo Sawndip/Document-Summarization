@@ -1,0 +1,216 @@
+# depslib dependency file v1.0
+1411451690 source:d:\tareq - project\document summarization\main.cpp
+	<bits/stdc++.h>
+	"Key_phrase.h"
+	"Degree.h"
+	"Mapping_DifferentWords.h"
+	"Mapping_Stopwords.h"
+	"Separating_Sentences.h"
+	"Global.h"
+	"SubSentence.h"
+	"Graph_formation.h"
+
+1413407105 mation.h"
+
+1411287472 source:d:\tareq - project\document summarization\global.cpp
+	"Global.h"
+	<bits/stdc++.h>
+
+1413403150 ++.h>
+
+1409034284 d:\tareq - project\document summarization\global.h
+
+1409759551 d:\tareq - project\document summarization\mapping_stopwords.h
+
+1410152795 source:d:\tareq - project\document summarization\mapping_stopwords.cpp
+	<bits/stdc++.h>
+	"Mapping_Stopwords.h"
+
+1413362714 topwords.h"
+
+1409121128 d:\tareq - project\document summarization\separating_sentences.h
+
+1410154100 source:d:\tareq - project\document summarization\separating_sentences.cpp
+	<bits/stdc++.h>
+	"Separating_Sentences.h"
+
+1413402820 g_Sentences.h"
+
+1410162523 source:d:\tareq - project\document summarization\subsentence.cpp
+	<bits/stdc++.h>
+	"SubSentence.h"
+
+1413402827 ce.h"
+
+1410157037 d:\tareq - project\document summarization\subsentence.h
+
+1410186416 source:d:\tareq - project\document summarization\mapping_differentwords.cpp
+	<bits/stdc++.h>
+	"Mapping_DifferentWords.h"
+
+1413402811 ifferentWords.h"
+
+1409128721 d:\tareq - project\document summarization\mapping_differentwords.h
+
+1409220587 d:\tareq - project\document summarization\graph_formation.h
+
+1411288485 source:d:\tareq - project\document summarization\graph_formation.cpp
+	"Graph_formation.h"
+	<bits/stdc++.h>
+
+1410327990 source:d:\tareq - project\document summarization\degree.cpp
+	"Degree.h"
+	<bits/stdc++.h>
+
+1410175962 d:\tareq - project\document summarization\degree.h
+
+1411295202 source:d:\tareq - project\document summarization\key_phrase.cpp
+	"Key_phrase.h"
+	"Global.h"
+	<bits/stdc++.h>
+
+1411292514 d:\tareq - project\document summarization\key_phrase.h
+
+1413405753 source:d:\documentation\document summarization\degree.cpp
+	"Degree.h"
+	<bits/stdc++.h>
+
+1410175962 d:\documentation\document summarization\degree.h
+
+1413405675 source:d:\documentation\document summarization\global.cpp
+	"Global.h"
+	<bits/stdc++.h>
+
+1409034284 d:\documentation\document summarization\global.h
+
+1413404084 source:d:\documentation\document summarization\graph_formation.cpp
+	"Graph_formation.h"
+	<bits/stdc++.h>
+
+1413401154 d:\documentation\document summarization\graph_formation.h
+
+1413407105 source:d:\documentation\document summarization\main.cpp
+	<bits/stdc++.h>
+	"Hello.h"
+	"Final_Output.h"
+	"Key_phrase.h"
+	"Degree.h"
+	"Mapping_DifferentWords.h"
+	"Mapping_Stopwords.h"
+	"Separating_Sentences.h"
+	"Global.h"
+	"SubSentence.h"
+	"Graph_formation.h"
+
+1411292514 d:\documentation\document summarization\key_phrase.h
+
+1409128721 d:\documentation\document summarization\mapping_differentwords.h
+
+1409759551 d:\documentation\document summarization\mapping_stopwords.h
+
+1409121128 d:\documentation\document summarization\separating_sentences.h
+
+1410157037 d:\documentation\document summarization\subsentence.h
+
+1413402811 source:d:\documentation\document summarization\mapping_differentwords.cpp
+	<bits/stdc++.h>
+	"Mapping_DifferentWords.h"
+
+1413362714 source:d:\documentation\document summarization\mapping_stopwords.cpp
+	<bits/stdc++.h>
+	"Mapping_Stopwords.h"
+
+1413402820 source:d:\documentation\document summarization\separating_sentences.cpp
+	<bits/stdc++.h>
+	"Separating_Sentences.h"
+
+1413402827 source:d:\documentation\document summarization\subsentence.cpp
+	<bits/stdc++.h>
+	"SubSentence.h"
+
+1413407087 source:d:\documentation\document summarization\key_phrase.cpp
+	"Key_phrase.h"
+	"Global.h"
+	<bits/stdc++.h>
+
+1413402101 d:\documentation\document summarization\include\output.h
+
+1413402984 d:\documentation\document summarization\final_output.h
+
+1413402963 source:d:\documentation\document summarization\final_output.cpp
+	"Final_Output.h"
+	"Global.h"
+	<bits/stdc++.h>
+
+1413403150 source:d:\documentation\document summarization\hello.cpp
+	"Hello.h"
+	<bits/stdc++.h>
+
+1413403150 d:\documentation\document summarization\hello.h
+
+1413405753 source:/media/muntasir/Education/documentation/Document Summarization/Degree.cpp
+	"Degree.h"
+	<bits/stdc++.h>
+
+1410175962 /media/muntasir/Education/documentation/Document Summarization/Degree.h
+
+1413405675 source:/media/muntasir/Education/documentation/Document Summarization/Global.cpp
+	"Global.h"
+	<bits/stdc++.h>
+
+1409034284 /media/muntasir/Education/documentation/Document Summarization/Global.h
+
+1413404084 source:/media/muntasir/Education/documentation/Document Summarization/Graph_formation.cpp
+	"Graph_formation.h"
+	<bits/stdc++.h>
+
+1413401154 /media/muntasir/Education/documentation/Document Summarization/Graph_formation.h
+
+1413407087 source:/media/muntasir/Education/documentation/Document Summarization/Key_phrase.cpp
+	"Key_phrase.h"
+	"Global.h"
+	<bits/stdc++.h>
+
+1411292514 /media/muntasir/Education/documentation/Document Summarization/Key_phrase.h
+
+1413407105 source:/media/muntasir/Education/documentation/Document Summarization/main.cpp
+	<bits/stdc++.h>
+	"Hello.h"
+	"Final_Output.h"
+	"Key_phrase.h"
+	"Degree.h"
+	"Mapping_DifferentWords.h"
+	"Mapping_Stopwords.h"
+	"Separating_Sentences.h"
+	"Global.h"
+	"SubSentence.h"
+	"Graph_formation.h"
+
+1413403150 /media/muntasir/Education/documentation/Document Summarization/Hello.h
+
+1413402984 /media/muntasir/Education/documentation/Document Summarization/Final_Output.h
+
+1409128721 /media/muntasir/Education/documentation/Document Summarization/Mapping_DifferentWords.h
+
+1409759551 /media/muntasir/Education/documentation/Document Summarization/Mapping_Stopwords.h
+
+1409121128 /media/muntasir/Education/documentation/Document Summarization/Separating_Sentences.h
+
+1410157037 /media/muntasir/Education/documentation/Document Summarization/SubSentence.h
+
+1413402811 source:/media/muntasir/Education/documentation/Document Summarization/Mapping_DifferentWords.cpp
+	<bits/stdc++.h>
+	"Mapping_DifferentWords.h"
+
+1413362714 source:/media/muntasir/Education/documentation/Document Summarization/Mapping_Stopwords.cpp
+	<bits/stdc++.h>
+	"Mapping_Stopwords.h"
+
+1413402820 source:/media/muntasir/Education/documentation/Document Summarization/Separating_Sentences.cpp
+	<bits/stdc++.h>
+	"Separating_Sentences.h"
+
+1413402827 source:/media/muntasir/Education/documentation/Document Summarization/SubSentence.cpp
+	<bits/stdc++.h>
+	"SubSentence.h"
+
